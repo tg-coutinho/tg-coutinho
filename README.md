@@ -1,5 +1,6 @@
-## 🧑🏻‍ Sobre mim:
+## 🧑🏻‍ Olá Dev, seja bem-vindo ao meu GitHub!
 
+ Estudante de Desenvolmento Web (C# | ASP.NET | JS | TS | Angular | SQL)
 
 - 🎓 Formado em Gestão de T.I
 - 📚 Estudando Full-Stack e Inglês
