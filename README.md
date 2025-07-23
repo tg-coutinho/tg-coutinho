@@ -6,7 +6,6 @@
 - 📚 Estudando Full-Stack e Inglês
 - 📫 Contate-me por email: tcoutinho908@gmail.com
 - 😄 Pronomes: Ele/Dele
-- 💻 Desenvolvimento Web
 ##
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tg-coutinho&layout=compact)
 ##
