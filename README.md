@@ -19,6 +19,8 @@
 
  ##
 <div> 
+  <a href="https://portfolio-tiago.web.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfólio-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Portfólio"></a>
   <a href="https://api.whatsapp.com/send?phone=5511939544263&text=Ol%C3%A1,%20estou%20no%20seu%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href = "mailto:tcoutinho908@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
